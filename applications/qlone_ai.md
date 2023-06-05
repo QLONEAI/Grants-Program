@@ -178,12 +178,12 @@ Total Costs: 30,000 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 1. | License | MIT |
-| 2. | Documentation | We will provide both Qlone.ai application techincal documentation of the code in https://github.com/QLONEAI/ repo readme.md file and a basic user manual with detailed instruction how to use AI NFT generator on  Polkadot and Kusama ecosystem for unique NFTs collections. |
+| 2. | Documentation | We will provide both Qlone.ai application techincal documentation of the code in https://github.com/QLONEAI/ repo readme.md file and a basic user manual with detailed instruction how to use AI NFT generator on Polkadot and Kusama ecosystem for unique NFTs collections. |
 | 3. | Testing Guide | All available application functionalities will be live tested and also sandbox tested in Westend Testnet. test.md will cover detailed instruction how to use AI NFT generator |
-| 1. | Research of Polkadot and Kusama ecosystem adoption for AI (artificial intelligence) NFT generator tool to integrate in Polkadot and Kusama chain using NFT 2.0 RMRK standards. | |  
-| 2. | AI (artificial intelligence) based NFT Generator development for NFTs collection on WEB platform with preparation to synchronise functionality with Polkadot and Kusama ecosystem | |
-| 3. | Integration of wallet in aplication to be able to interact with NFTs. Test contracts development on Westend Testnet | |  
-| 4. | UI and UX development for user to be able use AI NFT generator tool for NFT collections. | |  
+| 1. | Research documentation | Research of Polkadot and Kusama ecosystem adoption for AI (artificial intelligence) NFT generator tool to integrate in Polkadot and Kusama chain using NFT 2.0 RMRK standards. |
+| 2. | UI/UX Design | UI and UX development for user to be able use AI NFT generator tool for NFT collections. |
+| 3. | NFT Generator Mobile App | AI (artificial intelligence) based NFT Generator development for NFTs collection on WEB platform with preparation to synchronise functionality with Polkadot and Kusama ecosystem. |  
+| 4. | Wallet integration on Mobile App | Integration of wallet in aplication to be able to interact with NFTs. Test contracts development on Westend Testnet. |  
 
 
 ### Milestone 2 - NFT generator development
@@ -197,9 +197,9 @@ Total Costs: 30,000 USD
 | 1. | License | MIT |
 | 2. | Documentation | We will provide both Qlone.ai application techincal documentation of the code in https://github.com/QLONEAI/ repo readme.md file and a basic user manual with detailed instruction how to use AI NFT generator on Polkadot Mainnet for unique NFTs collections. |
 | 3. | Testing Guide | All available application functionalities will be live tested and also sandbox tested. test.md will cover detailed instruction how to utilize AI NFT generator tools. |
-| 1. | Fix and update Polkadot contracts for Polkadot Mainnet chain | |  
-| 2. | Fully integration of Polkadot and Kusama ecosystem on to NFT generator to generate and synchronize collections NFTs minting in Polkadot and Kusama ecosystem | |  
-| 3. | Ability to utilize NFT collections using Polkadot and Kusama ecosystem configure NFTs, configure collections | | 
+| 1. | NFT Generator Mobile app (Mainet) | Fix and update Polkadot contracts for Polkadot Mainnet chain |  
+| 2. | NFT Collections Generator Mobile app (Mainet) | Ability to generate NFT collections using Polkadot and Kusama ecosystem from various attributes and options |
+| 3. | Wallet integration on mobile app (Mainet) | Fully integration of Polkadot and Kusama ecosystem on to NFT generator to generate and synchronize collections NFTs minting in Polkadot and Kusama ecosystem |
 
 
 We will acquire users with our growth model for 1 year, we will offer better pricing with our tools which other projects lack. Our strategy is user acquisition using our marketing plan and go-to-market strategy. We will focus on user acquisition and revenue for first year. Marketing plan: Affiliate marketing, referral systems, ad words, seo, smm (social media marketing twitter, instagram, tiktok and etc..), Kols (influencers), partnership promotions.
